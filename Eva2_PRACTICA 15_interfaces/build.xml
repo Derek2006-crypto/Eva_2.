@@ -7,8 +7,8 @@
 <!-- the Compile on Save feature is turned off for the project. -->
 <!-- You can turn off the Compile on Save (or Deploy on Save) setting -->
 <!-- in the project's Project Properties dialog box.-->
-<project name="Eva2_PRACTICA_9_ABSTRACT" default="default" basedir=".">
-    <description>Builds, tests, and runs the project Eva2_PRACTICA 9_ABSTRACT.</description>
+<project name="Eva2_PRACTICA_15_interfaces" default="default" basedir=".">
+    <description>Builds, tests, and runs the project Eva2_PRACTICA 15_interfaces.</description>
     <import file="nbproject/build-impl.xml"/>
     <!--
 
@@ -58,7 +58,7 @@
 
     An example of overriding the target for project execution could look like this:
 
-        <target name="run" depends="Eva2_PRACTICA_9_ABSTRACT-impl.jar">
+        <target name="run" depends="Eva2_PRACTICA_15_interfaces-impl.jar">
             <exec dir="bin" executable="launcher.exe">
                 <arg file="${dist.jar}"/>
             </exec>
