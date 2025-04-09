@@ -1,0 +1,6 @@
+eva2_pracctica.pkg22_instance.Gato
+eva2_pracctica.pkg22_instance.Mamifero
+eva2_pracctica.pkg22_instance.Animal
+eva2_pracctica.pkg22_instance.Serpiente
+eva2_pracctica.pkg22_instance.Eva2_PRACCTICA22_INSTANCE
+eva2_pracctica.pkg22_instance.Reptil
